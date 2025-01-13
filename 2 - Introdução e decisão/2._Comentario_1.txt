@@ -1,0 +1,59 @@
+python -> fracamente tipada;
+O computador n entende se é uma letra/numero, ele só entende o tamanho da "informação"; (bytes)
+
+C puro n tem variavel booleana, "usa um inteiro e coloca 0ou1";
+variaveis declaradas uma do lado da outra estão na memoria literalmente uma do lado da outra
+	int x,y,z;
+
+scnaf("%d %c", &idade, &sexo);
+	& -> lidando com a memoria do computador
+		lendo um inteiro e armazenadno no endereço da variavel correspondendte;	
+
+em c é sempre bom inicializar as variaveis
+float temp_f=0.0;
+isso ocorre pq as vezes tem lixo na memoria;
+
+em c cuidado ao misturar inteiro com float na mesma operação;
+
+
+indentação q se foda, o ponto e virgula é o q importa;
+
+comparação de > < >= && ... -> portas logicas (and,or)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

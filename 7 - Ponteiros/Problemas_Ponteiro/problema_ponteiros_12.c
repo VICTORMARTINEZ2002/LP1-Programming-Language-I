@@ -1,0 +1,1 @@
+//o tipo de retorno da função malloc() é um ponteiro do tipo void*;
